@@ -1,0 +1,26 @@
+{
+  "name": "adivina-numero",
+  "version": "1.0.0",
+  "description": "1st project js",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dargabi/adivina-numero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dargabi/adivina-numero/issues"
+  },
+  "homepage": "https://github.com/dargabi/adivina-numero#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.18.0",
+    "eslint": "^9.18.0",
+    "eslint-config-prettier": "^10.0.1",
+    "globals": "^15.14.0",
+    "prettier": "^3.4.2"
+  }
+}
